@@ -1,2 +1,2 @@
 # Leetcode-hard
-简单的hard题
+一些简单的leetcode-hard题
